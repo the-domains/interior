@@ -1,0 +1,14 @@
+layout_spectrum: 0.08094435
+color:
+  saturation: 0.3929174
+  lightness: 1
+  brandStrength: 0.4089376
+  brandColors:
+    - '#F3F2F2'
+    - '#D7CFC6'
+    - '#6F5A42'
+    - '#AB9265'
+    - '#3B3127'
+  rhythmicContrast: 0.3035413
+typography_spectrum: 0.2765599
+name: Interior
